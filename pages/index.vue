@@ -1,5 +1,7 @@
 <template>
-  <Tutorial />
+  <div>
+    <cartList/>
+  </div>
 </template>
 
 <script lang="ts">
